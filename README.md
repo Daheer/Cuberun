@@ -1,5 +1,5 @@
 # Cuberun
-Simple casual game where a cube runs through a course trying to dodge obstacles
+Simple casual game that follows a cube running through a course trying to dodge obstacles
 
 # Built With
 <ul> 
@@ -9,15 +9,15 @@ Simple casual game where a cube runs through a course trying to dodge obstacles
 
 # Gameplay Screenshots
 
-<li> Welcome Screen </li>
+<li> Welcome Screen </li> <br>
 
 <img src='images/welcome_screen.jpg'>
 
-<li> Game Start Screen </li>
+<li> Game Start Screen </li> <br>
 
 <img src='images/start.png'>
 
-<li> Game Over Screen </li>
+<li> Game Over Screen </li> <br>
 
 <img src='images/game_over.png'>
 
